@@ -1,4 +1,4 @@
-package emitter
+package util
 
 import (
 	"reflect"

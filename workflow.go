@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/hawkingrei/emitter/"
+	"github.com/hawkingrei/emitter/inject"
+	"github.com/hawkingrei/emitter/util"
 )
 
 type Node struct {
