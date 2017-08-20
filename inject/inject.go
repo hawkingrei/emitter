@@ -1,5 +1,5 @@
 // Package inject provides utilities for mapping and injecting dependencies in various ways.
-package injector
+package inject
 
 import (
 	"fmt"
